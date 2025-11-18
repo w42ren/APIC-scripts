@@ -19,9 +19,9 @@ urllib3.disable_warnings()
 # -----------------------------
 # APIC connection parameters
 # -----------------------------
-APIC = 'https://sandboxapicdc.cisco.com'
-USER = 'admin'
-PASS = '!v3G@!4@Y'
+APIC = api url
+USER = 'username'
+PASS = 'password'
 TENANT = "Heroes"               # <-- tenant to inspect
 
 

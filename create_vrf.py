@@ -3,9 +3,9 @@ import urllib3
 
 urllib3.disable_warnings()
 
-APIC = 'https://sandboxapicdc.cisco.com'
-USER = 'admin'
-PASS = '!v3G@!4@Y'
+APIC = api url
+USER = 'username'
+PASS = 'password'
 
 
 def apic_login():

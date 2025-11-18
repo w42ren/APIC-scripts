@@ -18,9 +18,9 @@ urllib3.disable_warnings()  # ignore self-signed cert warnings (lab use only)
 # -----------------------------
 # APIC connection parameters
 # -----------------------------
-APIC = 'https://sandboxapicdc.cisco.com'
-USER = 'admin'
-PASS = '!v3G@!4@Y'
+APIC = api url
+USER = 'username'
+PASS = 'password'
 
 TENANT = "ACME"
 VRF_NAME = "ACME-VRF"
