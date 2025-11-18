@@ -258,9 +258,4 @@ These are key skills for:
 You now have a fully automated, production-style ACME deployment in
 Cisco ACI.
 
-If you want: - A teardown script\
-- A GitHub-ready folder structure\
-- A version with diagrams (Mermaid)\
-- A PDF workbook for students
 
-Just ask!
